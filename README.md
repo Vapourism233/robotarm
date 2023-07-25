@@ -1,5 +1,5 @@
 # robotarm
-# OpenCV2 is used
+OpenCV2 is used
 This is a project to control EPSON 6-axis robot arm. 
 
 `Main.prg` is written in `SPEL+`, to write the reaction way of MCU. 
